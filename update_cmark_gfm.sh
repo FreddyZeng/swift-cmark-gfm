@@ -37,7 +37,6 @@ cd ../..
 
 # Copy generated files
 cp cmark-gfm/build/src/*.h Sources/CMarkGFM
-cp cmark-gfm/build/extensions/*.h Sources/CMarkGFM
 
 # Clean up
 rm -rf cmark-gfm
